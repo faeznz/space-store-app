@@ -1,18 +1,11 @@
-# mini_project
+# Space Store App 
 
-A new Flutter project.
+Saya sangat bersemangat untuk berbagi proyek terbaru saya sebagai peserta program MSIB Kampus Merdeka di Alterra Academy dengan spesialisasi Flutter Mobile Engineering. Selama perjalanan saya, saya telah mengembangkan Aplikasi Space Store, sebuah platform inovatif yang dirancang untuk meningkatkan pengalaman belanja online.
 
-## Getting Started
+# Space Store App Features:
 
-This project is a starting point for a Flutter application.
+- Add to Cart: Browse and add your favorite t-shirts to the cart with ease.
+- Add Reviews: Share your thoughts and read reviews from other customers.
+- Join Our Community: Connect with like-minded individuals and become part of our vibrant community.
+- AI Integration: Get personalized product recommendations and answers to your queries with our advanced AI feature.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# space-store-app
-# space-store-app
